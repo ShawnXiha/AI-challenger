@@ -1,2 +1,2 @@
-# AI-chanllenger
+# AI-challenger
 English-Chinese Machine Translation
